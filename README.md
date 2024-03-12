@@ -27,13 +27,9 @@ This project demonstrates how to perform CRUD (Create, Read, Update, Delete) ope
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For questions or feedback, you can reach out to me at example@email.com.
+For questions or feedback, you can reach out to me at vishal.rai898@email.com.
 
 ## Acknowledgments
 
