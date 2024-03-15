@@ -1,4 +1,4 @@
-# JDBC CRUD Operations with MySQL
+# TASK MANAGEMENT SYSTEM
 
 This project demonstrates how to perform CRUD (Create, Read, Update, Delete) operations using JDBC (Java Database Connectivity) with a MySQL database.
 
